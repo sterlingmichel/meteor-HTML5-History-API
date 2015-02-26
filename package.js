@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  api.add_files('HTML5-History-API/history.iegte8.js', 'client');
+  api.add_files('html5-history-api/history.iegte8.js', 'client');
   api.add_files('settings.js', 'client');
 });
